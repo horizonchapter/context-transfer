@@ -1,3 +1,7 @@
+> **Ce dépôt est archivé et remplacé par [memoire-relais](https://github.com/horizonchapter/memoire-relais).**
+> memoire-relais reprend la passation de context-transfer (relais de session, relais de chat, bloc de passation sans fichiers, reprise) et y ajoute la lecture et l'écriture de la mémoire en temps réel, avec des scripts de contrôle. Pour débuter pas à pas, [memoire-aios](https://github.com/horizonchapter/memoire-aios) reste la porte d'entrée. Ce dépôt reste lisible en lecture seule.
+> *Archived: replaced by [memoire-relais](https://github.com/horizonchapter/memoire-relais).*
+
 <p align="center">
   <img src="assets/banner.png" alt="Context Transfer : passer d'un chat à l'autre sans perdre le contexte" width="100%">
 </p>
